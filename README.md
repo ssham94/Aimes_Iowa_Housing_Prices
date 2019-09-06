@@ -78,4 +78,5 @@ All supplementary data in the dataset would fall into one of these categories an
 
 In future, hopefully neighborhood data can be provided ie. average neighborhood elevation, number of grocery stores/other amenities, etc. With neighborhood data, the sale price can be better inferred from data that has not been seen yet. If such data can be provided, the data will be checked and any insightful variables may be added to the predictive model. 
 
-Final presentation link: https://docs.google.com/presentation/d/1tMiHUKCYPCSrUaUdyR7BxPEct_4hEn9-DV_vPKmZEJ4/edit?usp=sharing
+Final presentation link: 
+https://docs.google.com/presentation/d/1tMiHUKCYPCSrUaUdyR7BxPEct_4hEn9-DV_vPKmZEJ4/edit?usp=sharing
