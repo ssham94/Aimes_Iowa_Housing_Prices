@@ -77,3 +77,5 @@ Neighborhood
 All supplementary data in the dataset would fall into one of these categories and only provide slight insights. For instance, basement quality would fall under overall quality, or number of bedrooms/bathrooms would fall under total square footage. Therefore, it is important to look at the overarching variables and consider the rest of the variables as supplementary. 
 
 In future, hopefully neighborhood data can be provided ie. average neighborhood elevation, number of grocery stores/other amenities, etc. With neighborhood data, the sale price can be better inferred from data that has not been seen yet. If such data can be provided, the data will be checked and any insightful variables may be added to the predictive model. 
+
+Final presentation link: https://docs.google.com/presentation/d/1tMiHUKCYPCSrUaUdyR7BxPEct_4hEn9-DV_vPKmZEJ4/edit?usp=sharing
